@@ -43,6 +43,6 @@ To start using this project, follow these steps:
 2. Install the required dependencies,using  ```pip install -r requirements```.
 3. Run the ```python app.py``` application and begin interacting with your PDFs using natural language.
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 *Note:You have the flexibility to select different sentence embeddings and LLM models by just changing configure file.
